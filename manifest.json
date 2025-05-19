@@ -1,0 +1,16 @@
+{
+  "namespace": "Sandwichie123",
+  "name": "FreshFileSurface",
+  "description": "Cuts down on RNG in First-Run Fresh File Speedruns for practice",
+  "version_number": "0.1.0",
+  "dependencies": [
+    "Hell2Modding-Hell2Modding-1.0.28",
+    "SGG_Modding-ENVY-1.0.1",
+    "SGG_Modding-Chalk-2.0.2",
+    "SGG_Modding-ReLoad-1.0.1",
+    "SGG_Modding-SJSON-1.0.0",
+    "SGG_Modding-ModUtil-4.0.0"
+  ],
+  "website_url": "www.google.com",
+  "FullName": "Sandwichie123-FreshFileSurface"
+}
