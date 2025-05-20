@@ -1,15 +1,12 @@
-# Mod name
+# Fresh File Surface
 
-Hades II mod allowing to do some super duper thing.
+Melinoe decides to start with Surface instead of Underworld
 
 ## Features
 
-- Wow.
-- Much cool.
-  - Very doge.
+- Location 2 will bring you to Location 2 of Ephyra, from then on everything will be a standard Surface run
+- Artemis can spawn 
+- Athena can spawn
 
-## Install
 
-- Do this.
-- Do that.
-  - Nope, not that.
+Don't try to use this mod after First-Run :)
