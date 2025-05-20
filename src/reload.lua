@@ -1,24 +1,13 @@
----@meta _
--- globals we define are private to our plugin!
----@diagnostic disable: lowercase-global
+function StartNewGame_override( mapName )
+	DebugAssert({ Condition = GameState == nil, "Overwriting existing game state!" })
 
--- this file will be reloaded if it changes during gameplay,
--- 	so only assign to values or define things here.
+	GameState = {}
+	GameStateInit()
 
-function sjson_ShellText(data)
-	for _,v in ipairs(data.Texts) do
-		if v.Id == 'MainMenuScreen_PlayGame' then
-			v.DisplayName = 'Test ' .. _PLUGIN.guid
-			break
-		end
+	InitializeMetaUpgradeState()
+	InitializeGiftData()
+
+	if currentRun == nil then
+		StartNewRun( nil, { RoomName = "N_Opening01", StartingBiome = "N" } )
 	end
-end
-
-function prefix_SetupMap()
-	print('Map is loading, here we might load some packages.')
-	-- LoadPackages({Name = package_name_string})
-end
-
-function trigger_Gift()
-	modutil.mod.Hades.PrintOverhead(config.message)
 end
