@@ -7,7 +7,7 @@ namespace = "TeamSandwichie"
 name = "FreshFileSurface"
 versionNumber = "1.0.0"
 description = "Turns First-Run Fresh File into a Surface category"
-websiteUrl = "www.google.com"
+websiteUrl = "https://github.com/Sandwichie123/FreshFileSurface"
 containsNsfwContent = false
 
 [package.dependencies]
