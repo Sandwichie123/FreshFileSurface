@@ -1,7 +1,7 @@
 {
   "namespace": "Sandwichie123",
   "name": "FreshFileSurface",
-  "description": "Cuts down on RNG in First-Run Fresh File Speedruns for practice",
+  "description": "Turns First-Run Fresh File into a Surface category",
   "version_number": "0.1.0",
   "dependencies": [
     "Hell2Modding-Hell2Modding-1.0.28",
