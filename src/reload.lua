@@ -10,4 +10,5 @@ function StartNewGame_override( mapName )
 	if currentRun == nil then
 		StartNewRun( nil, { RoomName = "N_Opening01", StartingBiome = "N" } )
 	end
+	print("TESTING")
 end
