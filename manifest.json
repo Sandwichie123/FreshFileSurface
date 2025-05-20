@@ -2,7 +2,7 @@
   "namespace": "Sandwichie123",
   "name": "FreshFileSurface",
   "description": "Turns First-Run Fresh File into a Surface category",
-  "version_number": "0.1.0",
+  "version_number": "1.0.0",
   "dependencies": [
     "Hell2Modding-Hell2Modding-1.0.28",
     "SGG_Modding-ENVY-1.0.1",
