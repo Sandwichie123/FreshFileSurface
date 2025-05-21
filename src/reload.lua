@@ -1,12 +1,4 @@
-function StartNewGame_override( mapName )
-	DebugAssert({ Condition = GameState == nil, "Overwriting existing game state!" })
-
-	GameState = {}
-	GameStateInit()
-
-	InitializeMetaUpgradeState()
-	InitializeGiftData()
-
+function StartNewGame_wrap( mapName )
 	if currentRun == nil then
 		StartNewRun( nil, { RoomName = "N_Opening01", StartingBiome = "N" } )
 	end
