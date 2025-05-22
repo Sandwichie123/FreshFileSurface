@@ -13,4 +13,5 @@ Melinoe decides to start with Surface instead of Underworld
 - plimbo scrimbly - helped with c2 ephyra code (@plimboscrimbly on Discord)
 - mininet - figured out how to fix a summit endshop crash by having it not spawn items (@mininet02 on Discord)
 - fig leaf muncher - created mod icon (@lkchse on Discord)
+
 Don't try to use this mod after First-Run :)
