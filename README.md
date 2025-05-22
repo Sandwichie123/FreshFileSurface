@@ -9,7 +9,8 @@ Melinoe decides to start with Surface instead of Underworld
 - Athena can spawn
 - Surface endshop will have no items due to a bug in how the game fills the shop with items
 ## Credits
-erumi321 - taught me how to mod this game
-plimbo scrimbly - helped with c2 ephyra code
-mininet - figured out how to fix summit endshop bug
+- erumi321 - taught me how to mod this game
+- plimbo scrimbly - helped with c2 ephyra code
+- mininet - figured out how to fix summit endshop bug
+
 Don't try to use this mod after First-Run :)
