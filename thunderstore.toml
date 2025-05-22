@@ -3,7 +3,7 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "TeamSandwichie"
+namespace = "SandwichietheTeam"
 name = "FreshFileSurface"
 versionNumber = "1.0.0"
 description = "Turns First-Run Fresh File into a Surface category"
